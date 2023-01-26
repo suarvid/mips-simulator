@@ -5,6 +5,9 @@ Simulator is single-cycle, no branch-prediction slots, only a limited subset of 
 instructions available on real hardware.
 I.e. no fancy stuff.
 
+# How?
+See the user-manual.pdf above.
+
 # Why?
 Mandatory assignment in Computer Architecture course at Umeå Universty.
 Also, fun and good Rust practice.
