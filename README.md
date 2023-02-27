@@ -5,6 +5,8 @@ Simulator is single-cycle, no branch-prediction slots, only a limited subset of 
 instructions available on real hardware.
 I.e. no fancy stuff.
 
+![](https://github.com/suarvid/mips-simulator/blob/master/Screenshot%20from%202022-12-22%2018-10-48.png)
+
 # How?
 See the user-manual.pdf above.
 
